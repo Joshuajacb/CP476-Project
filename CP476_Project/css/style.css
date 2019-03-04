@@ -297,7 +297,29 @@ ul ul a {
 
 
 }
-
+/* ---------------------------------------------------
+    LOGIN PAGE
+----------------------------------------------------- */
+.login-app-name {
+    text-align: center;
+    margin-top: 40px;
+}
+.login-wrapper {
+    margin: 50px auto;
+    color: #fff;
+}
+.login-container {
+    background-color: #343a40;
+    padding: 10px;
+    border-radius: 4px;
+}
+#login-title{
+    text-align: center;
+    color: #fff;
+}
+.login-btn {
+    width: 100%;
+}
 
 /* ---------------------------------------------------
     MEDIAQUERIES
